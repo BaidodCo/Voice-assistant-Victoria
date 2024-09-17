@@ -7,7 +7,7 @@ A Professional voice assistant works in termux you can make it for linex 🙂
 
 # install
 
-• download the code or git clone
+• download the code or git clone<br>
 • python main.py
 
 
